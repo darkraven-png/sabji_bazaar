@@ -1,0 +1,35 @@
+
+---Downloaded files---
+The import files for: WooCommerce demo were successfully downloaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://localhost/amar_shop2
+Data file = C:\xampp\htdocs\amar_shop2/wp-content/themes/envo-multipurpose/includes/demo/woocommerce/woocommerce-content.xml
+Widget file = C:\xampp\htdocs\amar_shop2/wp-content/themes/envo-multipurpose/includes/demo/woocommerce/woocommerce-widgets.wie
+Customizer file = C:\xampp\htdocs\amar_shop2/wp-content/themes/envo-multipurpose/includes/demo/woocommerce/woocommerce-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+

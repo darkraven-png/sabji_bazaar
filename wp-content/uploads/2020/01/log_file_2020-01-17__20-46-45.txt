@@ -1,0 +1,120 @@
+
+---Downloaded files---
+The import files for: WooCommerce demo were successfully downloaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://localhost/amar_shop2
+Data file = C:\xampp\htdocs\amar_shop2/wp-content/themes/envo-multipurpose/includes/demo/woocommerce/woocommerce-content.xml
+Widget file = C:\xampp\htdocs\amar_shop2/wp-content/themes/envo-multipurpose/includes/demo/woocommerce/woocommerce-widgets.wie
+Customizer file = C:\xampp\htdocs\amar_shop2/wp-content/themes/envo-multipurpose/includes/demo/woocommerce/woocommerce-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Filter Products by Price - Filter by price - Imported
+Cart - Cart - Imported
+Product Search - No Title - Imported
+Active Product Filters - Active filters - Imported
+Recent Viewed Products - Recently Viewed Products - Imported
+Products - Products - Imported
+
+Header Section : 
+
+Navigation Menu - No Title - Imported
+
+Menu Section : 
+
+Text - About Us - Imported
+Navigation Menu - Follow Us - Imported
+Products - Just Arrived - Imported
+
+Homepage Widgetized Area : 
+
+EM: Slider - No Title - Imported
+EM: WooCommerce products - Discover Our - Imported
+EM: Static content - Summer Is Comming - Imported
+EM: WooCommerce products - On Sale - Imported
+EM: WooCommerce categories - Our Categories - Imported
+EM: Blog posts - Latest News - Imported
+EM: Static content - Have a Question? - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
